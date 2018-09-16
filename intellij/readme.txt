@@ -1,0 +1,1 @@
+1. settings.jar 用于保留intellij的各种配置， 新用户可以使用file-import settings来导入。
